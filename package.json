@@ -1,0 +1,17 @@
+{
+  "name": "cheeseboard",
+  "version": "1.0.0",
+  "description": "Makes cheeseboards",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiandrewj/cheeseboard.git"
+  },
+  "author": "Andrew Qian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiandrewj/cheeseboard/issues"
+  },
+  "homepage": "https://github.com/qiandrewj/cheeseboard#readme"
+}
